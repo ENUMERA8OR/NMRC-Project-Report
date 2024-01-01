@@ -18,11 +18,11 @@ The discussion further encompasses the importance and functionality of Platform 
 
 CBTC System Implementation and Technical Details:
 
-The report extensively covers the implementation and technical details of the CBTC system, including its architecture with onboard and wayside subsystems, communication systems, and components such as Balise, Interlocking, and Master Clock. It also highlights the increased capacity and operational efficiency achieved through CBTC. [ 45465556 ] 
+The report extensively covers the implementation and technical details of the CBTC system, including its architecture with onboard and wayside subsystems, communication systems, and components such as Balise, Interlocking, and Master Clock. It also highlights the increased capacity and operational efficiency achieved through CBTC. 
 
 Train Protection and Supervision Functions:
 
-Lastly, the report acknowledges the train protection and supervision functions, such as axle counters, and concludes by addressing the potential challenges and risks associated with CBTC systems. [ 5455 ] 
+Lastly, the report acknowledges the train protection and supervision functions, such as axle counters, and concludes by addressing the potential challenges and risks associated with CBTC systems. 
 
 Summary and Conclusion:
 
